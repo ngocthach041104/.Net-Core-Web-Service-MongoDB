@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "678d2c84a8b4af18f90a2f2d"
+  },
+  "Name": "Design Patterns",
+  "Price": 54.93,
+  "Category": "Computers",
+  "Author": "Ralph Johnson"
+},
+{
+  "_id": {
+    "$oid": "678d2c84a8b4af18f90a2f2e"
+  },
+  "Name": "Clean Code",
+  "Price": 43.15,
+  "Category": "Computers",
+  "Author": "Robert C. Martin"
+},
+{
+  "_id": {
+    "$oid": "678d2c84a8b4af18f90a2f21"
+  },
+  "Name": "s111",
+  "Price": {
+    "$numberDecimal": "10"
+  },
+  "Category": "123",
+  "Author": "ABC"
+},
+{
+  "_id": {
+    "$oid": "678d2c84a8b11f18f90a2f21"
+  },
+  "Name": "Heo tron",
+  "Price": {
+    "$numberDecimal": "120"
+  },
+  "Category": "Sach",
+  "Author": "BBBB"
+},
+{
+  "_id": {
+    "$oid": "678d2c8412311f18f90a2f21"
+  },
+  "Name": "Heo tron",
+  "Price": {
+    "$numberDecimal": "120"
+  },
+  "Category": "Sach",
+  "Author": "BBBB"
+}]
