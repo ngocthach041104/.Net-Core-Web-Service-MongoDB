@@ -15,6 +15,7 @@ Như
 
 **2. POST (Nhập thông tin sách mới)**
 ![image](https://github.com/user-attachments/assets/cee30300-fa47-477a-8e16-a6b566853f28)
+
 **3. GET (Lấy thông tin sách dựa theo id)**
 ![image](https://github.com/user-attachments/assets/8d666dcb-3144-49b7-a843-29c34555e5d6)
 
